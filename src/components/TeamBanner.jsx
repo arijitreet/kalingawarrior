@@ -13,7 +13,7 @@ const TeamBanner = () => {
       <div className="absolute inset-0 bg-black/45" />
       <div className="relative z-10 flex h-full items-center justify-center">
         <h2 className="text-4xl font-black tracking-widest text-white drop-shadow-lg sm:text-6xl">
-          Kalinga Warriors
+          KALINGA WARRIORS
         </h2>
       </div>
     </section>

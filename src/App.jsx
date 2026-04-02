@@ -22,7 +22,7 @@ function App() {
           <p>© 2026 Kalinga Warriors - All rights reserved.</p>
           <p>
             Built with React + Vite + Tailwind + Framer Motion by{' '}
-            <a href="https://www.linkedin.com/in/arijitpanda977/" target="_blank" rel="noopener noreferrer" className="font-bold text-gold hover:text-white">
+            <a href="https://www.linkedin.com/in/arijitpanda977/" target="_blank" rel="noopener noreferrer" className="font-bold text-gold hover:text-red-400 transition">
               ARIJIT PANDA
             </a>
           </p>

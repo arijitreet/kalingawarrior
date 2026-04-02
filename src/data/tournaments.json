@@ -1,30 +1,24 @@
 [
   {
-    "name": "Summer Cup",
-    "played": 5,
-    "won": 4,
-    "lost": 1,
-    "position": "Winner"
+    "name": "SANKRANTI TRI SERIES CUP 2025",
+    "played": 2,
+    "won": 2,
+    "lost": 0,
+    "position": "CHAMPION"
   },
   {
-    "name": "Coastal Championship",
-    "played": 6,
-    "won": 5,
-    "lost": 1,
-    "position": "Winner"
-  },
-  {
-    "name": "Mountain Shield",
-    "played": 4,
-    "won": 3,
+    "name": "REPUBLIC TRI SERIES CUP 2025",
+    "played": 2,
+    "won": 1,
     "lost": 1,
     "position": "Runner-up"
   },
   {
-    "name": "City League",
-    "played": 7,
-    "won": 5,
-    "lost": 2,
-    "position": "Semi-finalist"
+    "name": "UGADI TRI SERIES CUP 2025",
+    "played": 2,
+    "won": 2,
+    "lost": 1,
+    "position": "Runner-up"
   }
+  
 ]

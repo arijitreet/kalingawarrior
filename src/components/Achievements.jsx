@@ -18,6 +18,8 @@ const AchievementCard = ({ name, position }) => {
       </div>
       <h3 className="mt-3 text-xl font-bold text-white">{name}</h3>
       <p className="mt-2 text-sm text-gray-200">A key team milestone with outstanding performance and dedication.</p>
+      <p className="mt-2 text-sm text-gray-200">First Tournament win of Kalinga Warriors</p>
+      
     </motion.div>
   );
 };
