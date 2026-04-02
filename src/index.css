@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 20% 0%, #171f30, #040a14 55%);
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+
+.blur-card {
+  backdrop-filter: blur(14px);
+}

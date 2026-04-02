@@ -1,0 +1,83 @@
+[
+    {
+    "name": "Abhilash Dash",
+    "number": 69,
+    "role": "All-rounder",
+    "runs": 900,
+    "wickets": 45,
+    "image": "/players/Abhilash.png"
+  },
+  {
+    "name": "Amiya...",
+    "number": 18,
+    "role": "All-rounder",
+    "runs": 900,
+    "wickets": 45,
+    "image": "/players/Amiya.png"
+  },
+  {
+    "name": "Arijit Panda",
+    "number": 333,
+    "role": "All-rounder",
+    "runs": 450,
+    "wickets": 20,
+    "image": "/players/Arijit.JPG"
+  },
+  
+  {
+    "name": "Harendra Kumar",
+    "number": 10,
+    "role": "Batsman - Captain ",
+    "runs": 620,
+    "wickets": 2,
+    "image": "/players/Harendra.png"
+  },
+  {
+    "name": "Kundan kumar",
+    "number": 7,
+    "role": "Fast Bowler",
+    "runs": 95,
+    "wickets": 28,
+    "image": "/players/Kundan.png"
+  },
+  {
+    "name": "Sanjeeb Sethi",
+    "number": 21,
+    "role": "Fast Bowler",
+    "runs": 360,
+    "wickets": 1,
+    "image": "/players/Sanjeeb.png"
+  },
+  {
+    "name": "Shantanu Kar",
+    "number": 99,
+    "role": "All-rounder",
+    "runs": 510,
+    "wickets": 6,
+    "image": "/players/Shantanu.png"
+  },
+  {
+    "name": "Shivam Yadav",
+    "number": 99,
+    "role": "All-rounder",
+    "runs": 510,
+    "wickets": 6,
+    "image": "/players/Shivam.png"
+  },
+  {
+    "name": "Sourav Dash",
+    "number": 17,
+    "role": "WK,Batsman",
+    "runs": 510,
+    "wickets": 6,
+    "image": "/players/Sourav.png"
+  },
+  {
+    "name": "Swagat Jena",
+    "number": 99,
+    "role": "All-rounder",
+    "runs": 510,
+    "wickets": 6,
+    "image": "/players/Swagat.png"
+  }
+]

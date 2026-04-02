@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Summer Cup",
+    "played": 5,
+    "won": 4,
+    "lost": 1,
+    "position": "Winner"
+  },
+  {
+    "name": "Coastal Championship",
+    "played": 6,
+    "won": 5,
+    "lost": 1,
+    "position": "Winner"
+  },
+  {
+    "name": "Mountain Shield",
+    "played": 4,
+    "won": 3,
+    "lost": 1,
+    "position": "Runner-up"
+  },
+  {
+    "name": "City League",
+    "played": 7,
+    "won": 5,
+    "lost": 2,
+    "position": "Semi-finalist"
+  }
+]
